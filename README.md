@@ -1,6 +1,7 @@
 # DISCLAIMER #
 I'm not the author of this driver, all credits go to [Colin Svingen](https://bitbucket.org/%7Bb2074096-37da-4f83-b574-319a9bb048d5%7D/)
-This is a modified version to fix some key mappings (NumPad dot, left and right braces, semicolon, backslash) in "Dexcom Game Keyboard" with Microdia chipset.
+This is a modified version to fix some key mappings (NumPad dot, left and right braces, semicolon, backslash) in "Dexcom Game Keyboard"
+with Microdia chipset and pt-BR layout.
 
 # Linux Microdia Keyboard Chipset Driver #
 
